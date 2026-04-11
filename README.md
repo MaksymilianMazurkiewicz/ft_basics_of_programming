@@ -20,6 +20,9 @@ Ten projekt zawiera rozwiązania ćwiczeń z **podstaw programowania**.
 - **Lista 5**
     - [Link do ćwiczeń](https://andrzejewski.wppt.pwr.edu.pl/assets/pp_opt_l05_26.pdf)  
     - [Link do rozwiazań](https://github.com/MaksymilianMazurkiewicz/ft_basics_of_programming/tree/story/solutions/fifth_list)
+- **Lista 6**
+    - [Link do ćwiczeń](https://andrzejewski.wppt.pwr.edu.pl/assets/pp_opt_l06_26.pdf)  
+    - [Link do rozwiazań](https://github.com/MaksymilianMazurkiewicz/ft_basics_of_programming/tree/story/solutions/sixth_list)
   
 ## Jak korzystać z repozytorium
 1. Przejdź do odpowiedniego brancha z rozwiązaniami list 
