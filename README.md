@@ -1,4 +1,4 @@
-# Projekt L – Rozwiązania i tłumaczenia list z podstaw programowania
+# Projekt – Rozwiązania i tłumaczenia list z podstaw programowania
 
 Ten projekt zawiera rozwiązania ćwiczeń z **podstaw programowania**.  
 
@@ -7,7 +7,7 @@ Ten projekt zawiera rozwiązania ćwiczeń z **podstaw programowania**.
 - `story/solutions` – opis problemów i kontekstu ćwiczeń
 
 ## Lista ćwiczeń
-
+- **Zadania z wykładu**: [Link 1](https://bitbucket.org/karoltarnowski/python-examples/src/master/), [Link 2](https://tarnowski.wppt.pwr.edu.pl/202425l_wdp_ft.html)
 - **Lista 2**
     - [Link do ćwiczeń](https://andrzejewski.wppt.pwr.edu.pl/assets/pp_opt_l02_26.pdf)
     - [Link do rozwiazań](https://github.com/MaksymilianMazurkiewicz/ft_basics_of_programming/tree/story/solutions/second_list)
